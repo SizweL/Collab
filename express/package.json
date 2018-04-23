@@ -1,0 +1,14 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "DEVIII_LAB2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sizwe",
+  "license": "ISC",
+  "dependencies": {
+    "dolor": "^0.2.1"
+  }
+}
